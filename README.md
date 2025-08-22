@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Joseph Goh
+# 👋 Hi, I’m Joseph Goh
 
 - 🧑‍💻 **Data Scientist | ML Engineer | AI Enthusiast**  
 - 📊 7+ years working with **machine learning, NLP, recommender systems, and GenAI**  
