@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I’m Joseph Goh
 
-<!--
-**josephkokchin/josephkokchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 **Data Scientist | ML Engineer | AI Enthusiast**  
+- 📊 7+ years working with **machine learning, NLP, recommender systems, and GenAI**  
+- ⚡ Tech stack: **Python | SQL | PySpark | Docker | GCP | AWS | Azure**  
+- 🔎 Interests: **LLMs, retrieval-augmented generation (RAG), and scalable MLOps solutions**  
+- 🚀 Industry experience across **finance, insurance, consulting, and e-commerce**  
+- 💡 Love working on **end-to-end ML projects**, from idea to production deployment  
+- 🏃 Outside of work: **avid runner** & **tech explorer**  
 
-Here are some ideas to get you started:
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/josephkokchingoh/) | [GitHub](https://github.com/josephkokchin)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ *Always curious. Always learning. Always building.*  
