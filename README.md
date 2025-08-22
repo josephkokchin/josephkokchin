@@ -8,7 +8,7 @@
 - 💡 Love working on **end-to-end ML projects**, from idea to production deployment  
 - 🏃 Outside of work: **avid runner** & **tech explorer**  
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/josephkokchingoh/) | [GitHub](https://github.com/josephkokchin)  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/josephkokchingoh/)
 
 ---
 
